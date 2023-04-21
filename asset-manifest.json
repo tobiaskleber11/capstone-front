@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tobiaskleber11/capstone-front.git/static/css/main.0d4505ec.css",
+    "main.js": "/tobiaskleber11/capstone-front.git/static/js/main.a863d535.js",
+    "static/js/787.a2f6b77c.chunk.js": "/tobiaskleber11/capstone-front.git/static/js/787.a2f6b77c.chunk.js",
+    "static/media/pizza.png": "/tobiaskleber11/capstone-front.git/static/media/pizza.823e303937745240ecad.png",
+    "static/media/feature1.png": "/tobiaskleber11/capstone-front.git/static/media/feature1.12a05b3d0d039f079f6f.png",
+    "static/media/feature4.png": "/tobiaskleber11/capstone-front.git/static/media/feature4.294e2ea76a164ddd2511.png",
+    "static/media/feature3.png": "/tobiaskleber11/capstone-front.git/static/media/feature3.001be5a72d45335c48cb.png",
+    "static/media/one.png": "/tobiaskleber11/capstone-front.git/static/media/one.2b15b8191106e6bf0b24.png",
+    "static/media/man.png": "/tobiaskleber11/capstone-front.git/static/media/man.4ab0d10704398577d3ef.png",
+    "static/media/woman.png": "/tobiaskleber11/capstone-front.git/static/media/woman.e46006a6a8a3a4e6f8b6.png",
+    "static/media/three.png": "/tobiaskleber11/capstone-front.git/static/media/three.0da80862cff0ab4a3fb4.png",
+    "static/media/two.png": "/tobiaskleber11/capstone-front.git/static/media/two.4c141dbedfa76e6ddd15.png",
+    "static/media/feature2.png": "/tobiaskleber11/capstone-front.git/static/media/feature2.03c486634a6030b00794.png",
+    "static/media/ratings.png": "/tobiaskleber11/capstone-front.git/static/media/ratings.33edb6d38b2d41f4bba0.png",
+    "static/media/secondary.png": "/tobiaskleber11/capstone-front.git/static/media/secondary.adc4c4513563af7ae33d.png",
+    "static/media/Logo.png": "/tobiaskleber11/capstone-front.git/static/media/Logo.370f832fad423c516d56.png",
+    "index.html": "/tobiaskleber11/capstone-front.git/index.html",
+    "main.0d4505ec.css.map": "/tobiaskleber11/capstone-front.git/static/css/main.0d4505ec.css.map",
+    "main.a863d535.js.map": "/tobiaskleber11/capstone-front.git/static/js/main.a863d535.js.map",
+    "787.a2f6b77c.chunk.js.map": "/tobiaskleber11/capstone-front.git/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4505ec.css",
+    "static/js/main.a863d535.js"
+  ]
+}
