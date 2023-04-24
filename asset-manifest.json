@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/capstone-front/static/css/main.0d4505ec.css",
+    "main.js": "/capstone-front/static/js/main.73a41b88.js",
+    "static/js/787.a2f6b77c.chunk.js": "/capstone-front/static/js/787.a2f6b77c.chunk.js",
+    "static/media/pizza.png": "/capstone-front/static/media/pizza.823e303937745240ecad.png",
+    "static/media/feature1.png": "/capstone-front/static/media/feature1.12a05b3d0d039f079f6f.png",
+    "static/media/feature4.png": "/capstone-front/static/media/feature4.294e2ea76a164ddd2511.png",
+    "static/media/feature3.png": "/capstone-front/static/media/feature3.001be5a72d45335c48cb.png",
+    "static/media/one.png": "/capstone-front/static/media/one.2b15b8191106e6bf0b24.png",
+    "static/media/man.png": "/capstone-front/static/media/man.4ab0d10704398577d3ef.png",
+    "static/media/woman.png": "/capstone-front/static/media/woman.e46006a6a8a3a4e6f8b6.png",
+    "static/media/three.png": "/capstone-front/static/media/three.0da80862cff0ab4a3fb4.png",
+    "static/media/two.png": "/capstone-front/static/media/two.4c141dbedfa76e6ddd15.png",
+    "static/media/feature2.png": "/capstone-front/static/media/feature2.03c486634a6030b00794.png",
+    "static/media/ratings.png": "/capstone-front/static/media/ratings.33edb6d38b2d41f4bba0.png",
+    "static/media/secondary.png": "/capstone-front/static/media/secondary.adc4c4513563af7ae33d.png",
+    "static/media/Logo.png": "/capstone-front/static/media/Logo.370f832fad423c516d56.png",
+    "index.html": "/capstone-front/index.html",
+    "main.0d4505ec.css.map": "/capstone-front/static/css/main.0d4505ec.css.map",
+    "main.73a41b88.js.map": "/capstone-front/static/js/main.73a41b88.js.map",
+    "787.a2f6b77c.chunk.js.map": "/capstone-front/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4505ec.css",
+    "static/js/main.73a41b88.js"
+  ]
+}
